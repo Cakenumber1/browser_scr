@@ -11,7 +11,7 @@
 Так как токен живет 12 часов, то деплой на vercel превращается в тыкву.  
 
 1. Склонировать репозиторий.
-2. Прописать в env.local NEXT_PUBLIC_IAM_TOKEN и NEXT_PUBLIC_FOLDER.  
+2. Прописать в .env.local NEXT_PUBLIC_IAM_TOKEN и NEXT_PUBLIC_FOLDER.  
 3. Скачать пакеты.  
 4. npm run build, npm run start.  
 
